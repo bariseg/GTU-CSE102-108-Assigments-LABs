@@ -1,0 +1,4 @@
+Hocaya gönderdiğimde remote kısmı çalışmıyor
+Change sıralamayı etkilemediği için daha da kırabilir
+
+<75 bekleniyor

@@ -1,0 +1,10 @@
+iphone blue 999.2 210104 25 
+galaxy black 888.4 299999 5 
+baris white 98427.5 374812 2 
+tupper yellow 89.90 456789 84 
+keyboard red 789.24 105105 42 
+mouse black 399.3 102012 9 
+calculator grey 138.5 654321 24 
+deneme purple 421.5 674282 42 
+baris black 84721 421155 52 
+keyboard mavi 421.4 492140 64 
