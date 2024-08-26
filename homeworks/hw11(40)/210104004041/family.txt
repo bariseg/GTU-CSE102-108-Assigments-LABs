@@ -1,0 +1,7 @@
+ebru,44,null,null
+baris,21,ebru,veysel
+veysel,49,null,null
+mustafa,11,ebru,veysel
+kemal,2,ebru,veysel
+atilla,2,ayse,baris
+ayse,22,null,null

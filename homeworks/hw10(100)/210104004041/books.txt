@@ -1,0 +1,17 @@
+985-6857-00-0,Don Kisot,Miguel de Cervantes,1605,0
+985-6856-40-9,Denemeler,Montaigne,1581,0
+975-6856-10-9,Suc ve Ceza,Dostoyevski,1866,0
+952-6856-90-2,Anna Karenina,Leo Tolstoy,1877,1
+952-6856-30-9,Sefiller,Victor Hugo,1862,1
+942-6856-80-3,Kramazov Kardesler,Dostoyevski,1880,1
+942-6856-20-9,Insanciklar,Dostoyevski,1846,0
+915-4444-13-2,Tuzla Treni,Eren Baris,2025,0
+914-6857-60-8,Sessizlik,Shusaku Endo,1967,1
+914-6857-50-1,Gulun Adı,Umberto Eco,1980,0
+914-6857-40-5,Sol Ayagim,Christy Brown,1954,1
+914-6857-30-9,Satranc,Stefan Zweig,1942,0
+914-6857-20-2,Yabanci,Albert Camus,1942,0
+914-6856-60-8,Ince Memed,Yasar Kemal,1955,1
+914-6856-50-9,Toplum Sozlesmesi,JJ Rousseau,1762,1
+914-6856-24-1,Ince Memed 3,Yasar Kemal,1963,0
+914-6854-80-2,Ince Memed 2,Yasar Kemal,1960,0

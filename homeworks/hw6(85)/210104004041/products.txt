@@ -1,0 +1,17 @@
+pID,Type,Name,Brand,Price,deneme,Tazelik
+1,D,Ayran,Sutas,20.5,None,None
+2,F,Simit,Baris,8.0,None,None
+3,K,Tablet,Apple,32000,None,None
+4,O,CepTel,Samsung,6500,ewads,None
+5,D,Labne,Pinar,5.0,None,None
+6,F,Peynir,Erzin,20.0,None,None
+7,O,Laptop,Asus,12000,None,None
+8,F,Elma,Koyden,1.0,None,None
+9,D,Hiyar,Sera,1.4,guzel,None
+10,D,Cikolat,Bitter,3.5,None,None
+11,F,Biber,Tat,2.0,None,None
+12,O,Lamba,Samsung,15000,None,None
+13,F,Tulum,Enesim,155,tuzlu,None
+14,F,deneme,Baris,2415,None,None
+15,F,deneme,Baris,41578,None,None
+16,T,Bomba,Aselsan,5215,tr,taze

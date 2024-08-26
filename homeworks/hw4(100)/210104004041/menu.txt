@@ -1,0 +1,14 @@
+Product             Price (TL)  No
+
+Çorba               25.00       (1)
+Kebap               175.99      (2)
+Beyti               75.99       (3)
+Lahmacun            21.50       (4)
+Pide                40.00       (5)
+Döner               89.60       (6)
+Kemiksiz Çıtır      21.90       (7)
+Künefe              60.00       (8)
+Sütlaç              32.50       (9)
+Triliçe             32.50       (10)
+Kola                15.00       (11)
+Su                  5.00        (12)
